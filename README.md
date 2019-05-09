@@ -20,7 +20,7 @@ Then go back to terminal, and type:
 
 ## sudo cp -r /Volumes/OS\ X\ Base\ System/System/Installation/CDIS/KeyRecoveryAssistant.app /Applications/KeyRecoveryAssistant.app
 
-KeyRecoveryAssistant will now be located in your Applications folder. When you try to run it, it'll say something like this:
+KeyRecoveryAssistant will now be located in your Applications folder. When you try to run it, you'll get a message that looks something like this:
 
 # KeyRecoveryAssistant cannot be opened because of a problem.
 ## Check with the developer to make sure KeyRecoveryAssistant works with this version of macOS. You may need to reinstall the application. Be sure to install any available updates for the application and macOS.
