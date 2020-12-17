@@ -1,3 +1,10 @@
+# Please note that this will probably not work, and needs to be re-written
+Seriously
+
+----------
+----------
+----------
+
 # AOSUILite.framework
 AOSUILite.framework, which is required for `KeyRecoveryAssistant.app` requires in order to run.
 
@@ -18,7 +25,7 @@ You'd regularly boot into Recovery HD to do this, but there are times when you c
 `defaults write com.apple.Finder AppleShowAllFiles YES`
 `killall Finder`
 `diskutil mount disk0s3`
-`cp /Volumes/Recovery\ HD/come.apple.recovery.boot/BaseSystem.dmg ~/Desktop/`
+`cp /Volumes/Recovery\ HD/com.apple.recovery.boot/BaseSystem.dmg ~/Desktop/`
 
 ## Now mount BaseSystem.dmg, which is located on your desktop. When it's mounted, go back to terminal and run this command:
 
